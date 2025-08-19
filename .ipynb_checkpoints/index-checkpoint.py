@@ -6,7 +6,7 @@
 age_group = "teenagers" # str 
 age = 23 # int
 type(age)
-isEbubeFemale = True # bool
+isFemale = True # bool
 result = 9.898 # float
 
 tag = "67"
